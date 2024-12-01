@@ -7,4 +7,4 @@ jobs:
       - name: my-step1
       - uses: actions/checkout@v3
       - name: Run a simple Github Action
-      - run: echo "Hello World! this worksflow run successfully for this particul;ar action"
+        run: echo "Hello World! this worksflow run successfully for this particul;ar action"
